@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32598" started-at="2018-07-04T22:40:37Z" finished-at="2018-07-04T22:41:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32598" started-at="2018-07-04T22:40:37Z" finished-at="2018-07-04T22:41:10Z">
+      <class name="olympics.OlympicMedals">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="setUp" is-config="true" duration-ms="1978" started-at="2018-07-04T22:40:37Z" finished-at="2018-07-04T22:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="beforeMethod" is-config="true" duration-ms="2198" started-at="2018-07-04T22:40:39Z" finished-at="2018-07-04T22:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="countryByMedal()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="countryByMedal" duration-ms="4135" started-at="2018-07-04T22:40:41Z" finished-at="2018-07-04T22:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countryByMedal -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="tearDown" is-config="true" duration-ms="112" started-at="2018-07-04T22:40:45Z" finished-at="2018-07-04T22:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="beforeMethod" is-config="true" duration-ms="1031" started-at="2018-07-04T22:40:45Z" finished-at="2018-07-04T22:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getIndex()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="getIndex" duration-ms="3254" started-at="2018-07-04T22:40:46Z" finished-at="2018-07-04T22:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getIndex -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="tearDown" is-config="true" duration-ms="115" started-at="2018-07-04T22:40:50Z" finished-at="2018-07-04T22:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="beforeMethod" is-config="true" duration-ms="1060" started-at="2018-07-04T22:40:50Z" finished-at="2018-07-04T22:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getSum()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="getSum" duration-ms="4788" started-at="2018-07-04T22:40:51Z" finished-at="2018-07-04T22:40:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSum -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="tearDown" is-config="true" duration-ms="109" started-at="2018-07-04T22:40:56Z" finished-at="2018-07-04T22:40:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="beforeMethod" is-config="true" duration-ms="1107" started-at="2018-07-04T22:40:56Z" finished-at="2018-07-04T22:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sortTest()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="sortTest" duration-ms="3988" started-at="2018-07-04T22:40:57Z" finished-at="2018-07-04T22:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="tearDown" is-config="true" duration-ms="109" started-at="2018-07-04T22:41:01Z" finished-at="2018-07-04T22:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="beforeMethod" is-config="true" duration-ms="1024" started-at="2018-07-04T22:41:01Z" finished-at="2018-07-04T22:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="theMost()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="theMost" duration-ms="7440" started-at="2018-07-04T22:41:02Z" finished-at="2018-07-04T22:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theMost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:olympics.OlympicMedals@1a968a59]" name="tearDown" is-config="true" duration-ms="114" started-at="2018-07-04T22:41:09Z" finished-at="2018-07-04T22:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- olympics.OlympicMedals -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
